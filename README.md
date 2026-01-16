@@ -23,6 +23,18 @@
 - [Contributors](#contributors)
 
 
+
+
+## Types of Machine Learning
+
+### 1. [Supervised](https://wikipedia.org/wiki/Supervised_learning) Learning
+
+### 2. [Unsupervised](https://wikipedia.org/wiki/Unsupervised_learning) Learning
+
+### 3. [Reinforcement](https://wikipedia.org/wiki/Reinforcement_learning) Learning
+
+
+
 ##
 
 
