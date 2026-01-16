@@ -18,6 +18,7 @@
 
 
 ## 📖 Contents
+- [Types of Machine Learning](#types-of-machine-learning)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
