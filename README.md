@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [Machine Learning](https://wikipedia.org/wiki/Machine_learning) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Machine Learning ([AI](https://wikipedia.org/wiki/Machine_learning)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWQMt7EDC-s6MqBR0MLWioE&si=_FAIl-x7w_o-lPPM)
